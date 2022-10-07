@@ -101,15 +101,16 @@ body {
     font-weight: 600;
 }
 
-@media screen and (max-width: 460px){
+@media screen and (max-width: 600px){
     .toDoList {
-        max-width: 300px;
+        width: 80%;
     }
     .listHead {
-        gap: 25px;
+        gap: 15px;
     }
     .enterList {
-        flex-basis: 60%;
+        flex-basis: 70%;
+        min-width: 100px;
     }
     .addList {
         flex-basis: 30%;
