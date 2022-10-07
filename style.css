@@ -109,7 +109,7 @@ body {
         gap: 15px;
     }
     .enterList {
-        flex-basis: 70%;
+        flex-basis: 60%;
     }
     .addList {
         flex-basis: 30%;
