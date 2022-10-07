@@ -118,4 +118,7 @@ body {
         flex-basis: 20%;
         padding: 5px;
     }
+    .itemsBtn {
+        gap: 15px;
+    }
 }
