@@ -120,5 +120,6 @@ body {
     }
     .itemsBtn {
         gap: 15px;
+        justify-content: space-between;
     }
 }
