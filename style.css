@@ -110,16 +110,16 @@ body {
         gap: 15px;
         justify-content: space-between;
     }
-    .enterList {
+    .enterList,.items p  {
         flex-basis: 70%;
         min-width: 100px;
     }
-    .addList {
+    .addList, .items.itemsBtn {
         flex-basis: 20%;
         padding: 5px;
     }
+   
     .itemsBtn {
         gap: 15px;
-        justify-content: space-between;
     }
 }
